@@ -1,0 +1,6 @@
+*Validation purphose(novaliditation) -9min
+*checked= checkbox e auto ekta select thakbe
+*selected = auto ekta select thakbe.
+
+#fieldset(tag) = it's user for creating group.
+  *Legend(tag) = use for    paragraph.
